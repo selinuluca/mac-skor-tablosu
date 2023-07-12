@@ -1,0 +1,2 @@
+mediaplayer deneme uygulaması çalışmayacak, çözüm :  takımlar klasörünü masaüstüne getir.
+ 
